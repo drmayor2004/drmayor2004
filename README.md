@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drmayor2004
-- 👀 I’m interested in ML and Cloud Technology
-- 🌱 I’m currently learning JS and AWS development
+- 👀 Cloud Technology
+- 🌱Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
