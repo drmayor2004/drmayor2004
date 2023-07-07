@@ -28,4 +28,10 @@ My name is Mayowa, and I have a passion for programming, DevOps, software engine
   -   I love tinkering with computer software and hardware (PC builder here! And love the Raspberry Pis)
 
   -   I like exploring nature 🏞 while during macro photography.
+ 
+
+
+<a href="https://stackoverflow.com/users/9280323/mayormax">
+  <img align="left" alt="Yatharth's Stackoverflow" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/9280323" />
+</a>
 
