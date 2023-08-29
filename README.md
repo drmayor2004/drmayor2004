@@ -1,9 +1,4 @@
 ### Hi there 👋
-<a href="[[(https://www.instagram.com/imayormax])]">
-  <img align="left" alt="drmayor's Instagram" width="22px" src="https://www.instagram.com/imayormax" />
-</a>
-
-
 
 
 
