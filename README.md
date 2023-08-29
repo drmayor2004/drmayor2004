@@ -7,7 +7,6 @@
 
 
 
-(https://visitor-badge.glitch.me/badge?page_id=drmayor2004.drmayor2004)
 
 <br />
 
