@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="[[(https://www.instagram.com/imayormax])]">
-  <img align="left" alt="drmayor's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="drmayor's Instagram" width="22px" src="https://www.instagram.com/imayormax" />
 </a>
 
 
