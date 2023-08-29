@@ -7,8 +7,7 @@
 
 My name is Mayowa, and I have a passion for programming, DevOps, software engineering, and Machine Learning, and my hobby is photography. I delve into the world of technology as a backend specialist. My expertise lies in tackling intricate problems and exploring innovative technologies to overcome them.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="320" height="320" margin="10" />
-  
+
 - 🔭 I’m currently working on CGAfrica Backend Engine for artwork sharing.
 - 🧑‍💻 My favourite programming languages - are Python and Java, My Favourite tools - PYCharm, IntelliJ Idea, VSCode, Jupyter Lab, GH Copilot and Katalon Studio for testing
 - 🌱 I’m currently learning Data analysis and Kubernetes
