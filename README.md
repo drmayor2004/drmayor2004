@@ -4,12 +4,10 @@
 </a>
 
 
-<a href="[https://www.linkedin.com/in/yatharth-ranjan-176417101/](https://www.linkedin.com/in/mayowaosewa/)">
-  <img align="left" alt="drmayor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=drmayor2004.drmayor2004)
+
+(https://visitor-badge.glitch.me/badge?page_id=drmayor2004.drmayor2004)
 
 <br />
 
