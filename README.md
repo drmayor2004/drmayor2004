@@ -31,7 +31,7 @@ My name is Mayowa, and I have a passion for programming, DevOps, software engine
  
 
 
-<a href="https://stackoverflow.com/users/9280323/mayormax">
+/*<a href="https://stackoverflow.com/users/9280323/mayormax">
   <img align="left" alt="Yatharth's Stackoverflow" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/9280323" />
-</a>
+</a>*/
 
