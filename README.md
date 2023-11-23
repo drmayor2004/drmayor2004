@@ -20,6 +20,6 @@ My name is Mayowa, and I have a passion for programming, DevOps, software engine
 
   -   I like exploring nature 🏞 while during macro photography.
  
-
+[![wakatime](https://wakatime.com/badge/user/43d0277f-f895-445c-b306-92590f6f77d2.svg)](https://wakatime.com/@43d0277f-f895-445c-b306-92590f6f77d2)
 
 
